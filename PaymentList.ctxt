@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PaymentList
+comment0.text=\r\n\r\n
+comment1.params=size
+comment1.target=PaymentList(int)
+comment2.params=k
+comment2.target=Payment\ getPayment(int)
+comment3.params=
+comment3.target=double\ calculateTotalPaid()
+numComments=4

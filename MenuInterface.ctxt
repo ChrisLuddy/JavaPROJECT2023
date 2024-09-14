@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuInterface
+comment0.text=\r\n\ \r\n
+comment1.params=bookClub
+comment1.target=void\ serializeBookClub(BookClub)
+comment2.params=
+comment2.target=BookClub\ deserializeBookClub()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
